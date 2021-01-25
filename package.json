@@ -42,7 +42,7 @@
     "query-string": "^5.0.1",
     "redux": "3.7.2",
     "scrypt": "^6.0.3",
-    "spotify-web-api-node": "^2.5.0",
+    "spotify-web-api-node": "^5.0.2",
     "winston": "2.4.0",
     "ws": "^7.1.2"
   },
